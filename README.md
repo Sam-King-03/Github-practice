@@ -5,4 +5,7 @@ Here's our to-do list:
 - [x] Make our first commit
 - [x] Fix this typo
 
+Added a new line
+
+
 
